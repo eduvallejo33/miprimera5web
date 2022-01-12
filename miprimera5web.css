@@ -1,0 +1,59 @@
+* { padding:5px;
+    margin: 5px;
+    border-color: orange;
+    color: blue;
+    background-color: papayawhip;
+    
+}
+
+/* #encabezadoPrincipal{} */
+
+#cabeceraUno {border: 2px solid black;
+                float:left;}
+#cabeceraDos {border: 2px solid black;
+            }
+h1{ text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;     
+    background-color: yellow;
+    border-style:ridge;  
+    border-color: orange;
+    border-width: 30px;
+}
+h2{ text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    border-style: double;
+    border-width: 10px;
+    background-color:whitesmoke;
+    color: green;
+    width: 400px;
+    
+}
+h3 {text-align: left;
+    font-size:25px;
+}
+h4 {font-size: 25px;}
+p {color: black;
+    font-style: italic;
+    font-size: 18px;
+}
+#fotoGladiator {    width: 80%;
+                    height: 80%;
+                    object-fit: contain;
+                    /* margin-right: 600px; */
+                }
+#fotoPulp {     width:80%;
+                height: 80%;
+                object-fit: contain;}
+
+body {text-align: center;}
+
+header, article, footer {display: block;}
+
+h1, h3, footer ,article {color: red}
+
+.agrupar {  background: rgb(120, 223, 126);
+            margin: auto;
+            padding: 50px;
+            }
+ 
